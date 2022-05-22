@@ -1,33 +1,33 @@
-header{
+header {
     background-color: #343a40;
     padding-top: 3%;
     padding-bottom: 1%;
 }
 
-.nameCompany{
+.nameCompany {
     font-size: 191%;
     font-weight: 700;
 }
 
-header p{
+header p {
     color: #C62C45;
     margin-left: 3%;
 
 }
 
-.aboutUs{
+.aboutUs {
     background-image: url("../img/header-bg.jpg");
     padding-top: 12%;
     padding-bottom: 17%;
 }
 
-div.text-center>h1{
+div.text-center>h1 {
     font-weight: 700;
     font-size: 7em;
     color: #fff;
 }
 
-.aboutUsText{
+.aboutUsText {
     color: #fff;
     font-size: 2em;
     font-style: italic;
@@ -36,19 +36,19 @@ div.text-center>h1{
     margin-right: 9%;
 }
 
-.aboutUsBtnBlok{
+.aboutUsBtnBlok {
     margin-top: 9%;
 }
 
-.aboutUsBtnBlok button:first-child{
+.aboutUsBtnBlok button:first-child {
     background-color: #28a745;
 }
 
-.aboutUsBtnBlok button:last-child{
+.aboutUsBtnBlok button:last-child {
     background-color: #007bff;
 }
 
-.aboutUsBtn{
+.aboutUsBtn {
     margin-left: 2%;
     font-size: 1.9em;
     padding: 1.2% 3%;
@@ -56,19 +56,18 @@ div.text-center>h1{
     border: none;
 }
 
-.products
-{
+.products {
     background-color: #f8f9fa;
     padding: 9% 3%;
 }
 
-.products span{
+.products span {
     font-size: 2.3em;
     font-weight: 600;
     margin-top: 3%;
 }
 
-.products button{
+.products button {
     background-color: #28a745;
     border: none;
     color: #fff;
@@ -80,48 +79,58 @@ div.text-center>h1{
     padding-bottom: 1.5%;
 }
 
-.productsText h3{
+.productsText h3 {
     font-size: 3.8em;
 }
 
-.productsText p{
+.productsText p {
     font-size: 1.8em;
     margin-top: 4%;
 }
 
 
-.lapTop, .mouse, .tablet, .camera, .keyboard, .router{
+.lapTop,
+.mouse,
+.tablet,
+.camera,
+.keyboard,
+.router {
     padding-bottom: 4%;
     background-color: #fff;
 }
 
-.lapTop{
+.lapTop {
     margin-top: 9%;
 }
-.mouse, .camera, .keyboard{
-    margin-top: 10%; 
+
+.mouse,
+.camera,
+.keyboard {
+    margin-top: 10%;
 }
-.tablet, .router{
+
+.tablet,
+.router {
     margin-top: 11%;
 }
 
-.learnMore{
+.learnMore {
     background-color: #343a40;
     padding: 9%;
 }
 
-.learnMore h2{
+.learnMore h2 {
     color: #fff;
     font-size: 6.7em;
     font-weight: 300;
 }
 
-.learnMore p{
+.learnMore p {
     color: #fff;
     font-size: 2.4em;
 }
 
-.learnMore button{
+.learnMore button {
     background-color: #007bff;
     font-size: 1.9em;
     padding: 1.2% 3%;
@@ -130,57 +139,57 @@ div.text-center>h1{
     margin-top: 4%;
 }
 
-.connectUs img{
+.connectUs img {
     width: 94%;
     margin-top: 10%;
 }
 
-.connectText{
+.connectText {
     margin-left: 3%;
     margin-top: 3%;
 }
 
-.connectText>h4{
+.connectText>h4 {
     font-size: 3.3em;
 }
 
-.connectText>p{
+.connectText>p {
     margin-top: 1.6%;
     font-size: 1.88em;
 }
 
-.connectText>ul{
+.connectText>ul {
     list-style: none;
     margin-top: 4%;
     font-size: 2em;
     letter-spacing: -1.8px;
 }
 
-.connectText li:before{
+.connectText li:before {
     content: '✓';
 }
 
-footer{
+footer {
     background-color: #343a40;
     padding-left: 3%;
     padding-right: 3%;
     padding-top: 12%;
     padding-bottom: 14.5%;
 
-        margin-top: 9.9%;
+    margin-top: 9.9%;
 }
 
-.subscribeText h5{
-    color:  #fff;
+.subscribeText h5 {
+    color: #fff;
     font-size: 2.35em;
 }
 
-.subscribeText p{
+.subscribeText p {
     font-size: 1.9em;
     margin-top: 2%;
 }
 
-.q input{
+.q input {
     padding-left: 2.2%;
     font-size: 1.9em;
     padding-top: 1.4%;
@@ -188,8 +197,7 @@ footer{
     margin-top: 2%;
 }
 
-.q button
-{
+.q button {
     background-color: #007bff;
     font-size: 1.9em;
     padding: 1.2% 3%;
@@ -199,62 +207,62 @@ footer{
 }
 
 footer p {
-    color:  #fff;
+    color: #fff;
 }
 
-.FeL{
+.FeL {
     margin-top: 10%;
     font-size: 1.9em;
 }
 
 
-@media (min-width: 769px){
-    
-    header{
-    background-color: #343a40;
-    padding-top: 2%;
-    padding-bottom: 1%;
-    padding-left: 9%;
-}
+@media (min-width: 769px) {
 
-.nameCompany {
-    font-size: 135%;
-    font-weight: 700;
-}
+    header {
+        background-color: #343a40;
+        padding-top: 2%;
+        padding-bottom: 1%;
+        padding-left: 9%;
+    }
 
-.aboutUs{
-    padding-top: 8%;
-    padding-bottom: 12.3%;
-}
+    .nameCompany {
+        font-size: 135%;
+        font-weight: 700;
+    }
 
-div.text-center>h1{
-    font-size: 4.8em;
-}
+    .aboutUs {
+        padding-top: 8%;
+        padding-bottom: 12.3%;
+    }
 
-.aboutUsText {
-    margin-top: 5%;
-    margin-left: 17%;
-    margin-right: 17%;
-    font-size: 1.4em;
-}
+    div.text-center>h1 {
+        font-size: 4.8em;
+    }
 
-.aboutUsBtnBlok {
-    margin-top: 7%;
-}
+    .aboutUsText {
+        margin-top: 5%;
+        margin-left: 17%;
+        margin-right: 17%;
+        font-size: 1.4em;
+    }
 
-.aboutUsBtn {
-    font-size: 1.1em;
-}
+    .aboutUsBtnBlok {
+        margin-top: 7%;
+    }
 
-.item{
-    display: flex;
-    padding-left: 12%;
-    padding-right: 12%;
-}
+    .aboutUsBtn {
+        font-size: 1.1em;
+    }
 
-.lapTop{
-    width: 40%;
-}
+    .item {
+        display: flex;
+        padding-left: 12%;
+        padding-right: 12%;
+    }
+
+    .lapTop {
+        width: 40%;
+    }
 
 
 
